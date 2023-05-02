@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 form {
     max-width: 800px;
     margin: 0 auto;
@@ -8,6 +9,21 @@ form {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+  }
+
+  .form-headline {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #4a90e2;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 1.5rem;
   }
   
   .form-field {
