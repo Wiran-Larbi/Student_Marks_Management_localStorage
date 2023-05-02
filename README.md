@@ -1,2 +1,3 @@
 # Student_Marks_Management_localStorage
 ### a Student Marks Registration Program, using only localStorage and ES6+ feautures... 
+![show Case](https://raw.githubusercontent.com/Wiran-Larbi/Student_Marks_Management_localStorage/master/showCase.png?token=GHSAT0AAAAAAB65VXGFSYZTCR27JR36IGB2ZCRDK3A)
